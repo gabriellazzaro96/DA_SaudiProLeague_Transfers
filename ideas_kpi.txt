@@ -1,0 +1,24 @@
+- Evolucion dinero gastado en liga 		
+- Evolución cantidad de movimientos liga 		
+- Cantidad de jugadores por edades
+- Costo por edades
+- Jugador mas joven
+- Jugador mas viejo
+- Promedio de edad por club
+- Promedio de edad por año
+- Club con mas dinero gastado
+- Club con mas dinero recibido
+- Club con mas ventas realizadas
+- Club con mas compras realizadas
+- Top 5 Clubes dinero gastado
+- Top 5 Jugadores mas caros del año
+- Top 5 Ventas mas caras del año
+- Top 5 Compras mas caras del año
+- Monto por posicion
+- Cantidad por posicion
+- Gastos por mercado V/I
+- Movimientos por mercado V/I
+- Filtro ventas/compras
+- Gastos en transferencias, prestamos, free
+- Cantidades de movimientos por tipo de operacion
+- Evolucion año a año
