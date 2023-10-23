@@ -1,4 +1,4 @@
-# 🚀 Título del Proyecto
+# ⚽️ Evolución de Transferencias en la Saudi Pro League ⚡
 
 ## 1. 📚 Resumen
 El objetivo de este proyecto es presentar la evolución que ha experimentado la Saudi Pro League en las últimas dos décadas a través de un análisis de los movimientos en el mercado de transferencias de jugadores de renombre y jerarquía. Se analizarán diversas métricas y KPIs para estudiar tanto la liga en su conjunto como la situación de cada uno de los clubes que la componen. La motivación detrás de este proyecto es el notable aumento de emigraciones de futbolistas de renombre que han elegido continuar sus carreras en esta liga, no solo como un destino final, sino como un lugar competitivo. La información se obtuvo de [Transfermarkt.mx](https://www.transfermarkt.mx) y abarca un período desde el año 2000 hasta la actualidad. El proceso de Extracción, Transformación y Carga (ETL), así como el Análisis Exploratorio de Datos (EDA) y la Visualización de Datos, se llevaron a cabo con Python y Power BI.
